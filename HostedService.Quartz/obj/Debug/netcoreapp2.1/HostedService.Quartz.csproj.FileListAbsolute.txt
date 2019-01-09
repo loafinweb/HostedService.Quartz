@@ -1,0 +1,12 @@
+C:\lance\git\.NetCoreTips\HostedService.Quartz\HostedService.Quartz\bin\Debug\netcoreapp2.1\appsettings.json
+C:\lance\git\.NetCoreTips\HostedService.Quartz\HostedService.Quartz\bin\Debug\netcoreapp2.1\quartz_jobs.xml
+C:\lance\git\.NetCoreTips\HostedService.Quartz\HostedService.Quartz\bin\Debug\netcoreapp2.1\HostedService.Quartz.deps.json
+C:\lance\git\.NetCoreTips\HostedService.Quartz\HostedService.Quartz\bin\Debug\netcoreapp2.1\HostedService.Quartz.runtimeconfig.json
+C:\lance\git\.NetCoreTips\HostedService.Quartz\HostedService.Quartz\bin\Debug\netcoreapp2.1\HostedService.Quartz.runtimeconfig.dev.json
+C:\lance\git\.NetCoreTips\HostedService.Quartz\HostedService.Quartz\bin\Debug\netcoreapp2.1\HostedService.Quartz.dll
+C:\lance\git\.NetCoreTips\HostedService.Quartz\HostedService.Quartz\bin\Debug\netcoreapp2.1\HostedService.Quartz.pdb
+C:\lance\git\.NetCoreTips\HostedService.Quartz\HostedService.Quartz\obj\Debug\netcoreapp2.1\HostedService.Quartz.csproj.CoreCompileInputs.cache
+C:\lance\git\.NetCoreTips\HostedService.Quartz\HostedService.Quartz\obj\Debug\netcoreapp2.1\HostedService.Quartz.AssemblyInfoInputs.cache
+C:\lance\git\.NetCoreTips\HostedService.Quartz\HostedService.Quartz\obj\Debug\netcoreapp2.1\HostedService.Quartz.AssemblyInfo.cs
+C:\lance\git\.NetCoreTips\HostedService.Quartz\HostedService.Quartz\obj\Debug\netcoreapp2.1\HostedService.Quartz.dll
+C:\lance\git\.NetCoreTips\HostedService.Quartz\HostedService.Quartz\obj\Debug\netcoreapp2.1\HostedService.Quartz.pdb
